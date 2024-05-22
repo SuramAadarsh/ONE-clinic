@@ -7,6 +7,9 @@ This  web site   application is  developed for health related online clinic.
 
 **Project Link** - https://polite-glacier-0b4d29500.5.azurestaticapps.net/
 
+## project demo video link: - 
+https://youtu.be/zfc7AdyjWiU?si=eI0BXqdXH_B1UiKt
+
 
 ## Features and Functionalities :
 
