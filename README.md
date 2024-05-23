@@ -28,7 +28,8 @@ home : ![image](https://github.com/SuramAadarsh/ONE-clinic/assets/123187209/92e9
 ![image](https://github.com/SuramAadarsh/ONE-clinic/assets/123187209/214cecef-9303-4222-8999-ca30ad926153)
 
 ## chat bot: 
- ![image](https://github.com/SuramAadarsh/ONE-clinic/assets/123187209/8646c7dc-8b2a-4795-b276-4cd229a89458)
+ ![image](https://github.com/SuramAadarsh/ONE-clinic/assets/123187209/3fd6f6dc-5ea4-4dad-8d25-508414ba87c0)
+
 
 
 ### About Us -
